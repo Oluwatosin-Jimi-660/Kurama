@@ -1,0 +1,114 @@
+body {
+	min-width: 980px;
+}
+#logo {
+	text-align: center;
+	margin: 150px 300px 30px 300px;
+}
+#subform {
+	margin-right:auto;
+	margin-left: auto; 
+	min-width: 980px;
+}
+.logo {
+	margin-bottom: 0px;
+	height: 270px;
+}
+.body {
+	min-width: 980px;
+	text-align: center;
+	white-space: nowrap;
+}
+#header {
+	position: fixed;
+	top: 0px;
+	right: 0px;
+	left: 0px;
+	min-width: 980px;
+}
+.uright {
+	font-family: Arial, sans-serif;
+	padding: 20px;
+	position: absolute;
+	right: 0px;
+}
+a:link {
+	font-family: Arial, sans-serif;
+	color: gray;
+	text-decoration: none;
+}
+a:visited {
+	font-family: Arial, sans-serif;
+	color: gray;
+	text-decoration: none;
+}
+a:hover {
+	font-family: Arial, sans-serif;
+	color: gray;
+	text-decoration: none;
+}
+#links a:link {
+	color: blue;
+}
+#links a:hover {
+	color: blue;
+	text-decoration: underline
+}
+#links a:visited {
+	color: blue;
+}
+#form {
+	min-width: 484px;
+	height: 30px;
+	color: black;
+	margin-right:200px;
+	margin-left: 200px; 
+}
+#linky {
+	color: blue;
+	position: relative;
+	top: 270px;
+	left: 115px;
+}
+#links {
+	margin-right:200px;
+	margin-left: 200px; 
+	font-family: Arial, sans-serif;
+	font-size: 13px;
+}
+#footer {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+	padding-bottom: 11px;
+	padding-top: 11px; 
+	background-color: rgb(235,235,235);
+	min-width: 980px;
+}
+#footer a:link {
+	font-size: 14px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#allcontent {
+	text-align: center;
+	white-space: nowrap;
+}
+.right {
+	white-space: nowrap;
+	float: right;
+	padding-left: 200px;
+	position: absolute;
+	right: 0px;
+}
+.left {
+	white-space: nowrap;
+	float: left;
+	padding-right: 200px;
+	right: 0px;
+}
+.button {
+	padding: 7px;
+	margin: 5px;
+}
